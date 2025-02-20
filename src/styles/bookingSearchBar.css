@@ -1,0 +1,67 @@
+
+.bookingSearchContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border-style: solid white;
+    background-color: white;
+    width: 75%;
+    
+}
+.element 
+{
+    display: flex;
+    flex-direction: row;
+    border-right: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.optionChooser
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+}
+.optionChooserLeft
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.searchOptions
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    all: unset;
+}
+img 
+{
+    width: 24px;
+    height: 24px;
+}
+.searchButton
+{
+    all: unset;
+
+}
+.searchContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    background-color:#102C54;
+    padding: 10px;
+    gap: 5px;
+}
