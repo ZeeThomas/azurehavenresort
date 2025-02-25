@@ -1,6 +1,6 @@
-import '../styles/heroimage.css';
+import '../../styles/heroimage.css';
 import React from "react";
-import lobbyImage from "../assets/lobbyImage.jpg"
+import lobbyImage from "../../assets/lobbyImage.jpg"
 import {BookingSearchBar} from "./bookingSearchBar"
 export const Heroimage = () =>
 {
