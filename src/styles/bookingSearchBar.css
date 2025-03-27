@@ -141,3 +141,54 @@ img
     justify-content: flex-end;
     width: 50%;
 }
+.checkinContainer 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 15px;
+}
+#check-in-out-button
+{
+    all: unset;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.cal-top-bar
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.calendar
+{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    gap: 10px;
+    width: 100%;
+}
+
+.day
+{
+    padding: 20px;
+    text-align: 20px;
+}
+.selected
+{
+    background-color: #AE683B
+}
+.hovered
+{
+    background-color:#AE683B;
+}
+.range
+{
+    background-color:#E6B89B;
+}
