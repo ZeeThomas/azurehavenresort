@@ -4,8 +4,10 @@ import React from "react";
 export const Bookingbar = () =>
 {
     return(
-        <div className="hero-container">
-          <p>Hello World</p>
+        <div className="room-bar">
+          <span>Your Dream <br>
+                Luxurious Hotel Room
+          </span>
         </div>
         
     );
