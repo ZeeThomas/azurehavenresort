@@ -43,3 +43,7 @@
   border: 2px solid blue;
   justify-content: center;
 }
+#booking-button
+{
+  width: 50%;
+}
