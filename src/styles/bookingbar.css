@@ -39,6 +39,7 @@
 }
 #detail-button
 {
+  width: 50%;
   border: 2px solid blue;
   justify-content: center;
 }
