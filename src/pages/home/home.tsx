@@ -11,5 +11,6 @@ export const Home = () =>
             <Heroimage />
             {/*<WeatherStrip /> */}
             <Bookingbar>
+        </div>
     );
 }
