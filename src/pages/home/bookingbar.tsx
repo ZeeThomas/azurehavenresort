@@ -10,7 +10,9 @@ export const Bookingbar = () =>
           </span>
           <p id="small-text">Relax in style at The Azure Haven Resort, where modern comfort meets tropical oasis</p>
           <div id="rooms">
-            <h1>THIS IS THE BAR</h1>
+           <div class="card">
+             <img ></img>
+           </div>
           </div>
         </div>
         
