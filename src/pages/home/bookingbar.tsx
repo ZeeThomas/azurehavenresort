@@ -12,6 +12,7 @@ export const Bookingbar = () =>
           <div id="rooms">
            <div className="card">
              <img src="https://www.shutterstock.com/image-photo/tropical-summer-background-plaster-wall-260nw-2620817057.jpg" />
+             <h1>hotel room name</h1>
            </div>
           </div>
         </div>
