@@ -13,6 +13,11 @@ export const Bookingbar = () =>
            <div className="card">
              <img src="https://www.shutterstock.com/image-photo/tropical-summer-background-plaster-wall-260nw-2620817057.jpg" />
              <h1>hotel room name</h1>
+             <p>brief descriptions</p>
+             <div id="card-buttons">
+               <p>See Detail</p>
+               <p>Book now</p>
+             </div>
            </div>
           </div>
         </div>
