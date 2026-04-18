@@ -5,7 +5,7 @@ export const Bookingbar = () =>
 {
     return(
         <div className="booking-bar">
-          <span>Your Dream <br />
+          <span id="heading-text">Your Dream <br />
                 Luxurious Hotel Room
           </span>
           <p>Relax in style at The Azure Haven Resort, where modern comfort meets tropical oasis</p>
