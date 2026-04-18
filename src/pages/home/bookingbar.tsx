@@ -13,7 +13,10 @@ export const Bookingbar = () =>
            <div className="card">
              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMoAyyyXY_nTxHWgtOx7e047ikCMQI8yKNg&s" />
              <h1>hotel room name</h1>
-             <p>brief descriptions</p>
+             <div>
+               <p>brief descriptions</p>
+             </div>
+             
              <div id="card-buttons">
                <p>See Detail</p>
                <p>Book now</p>
