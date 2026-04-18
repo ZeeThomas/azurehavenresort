@@ -11,7 +11,7 @@ export const Bookingbar = () =>
           <p id="small-text">Relax in style at The Azure Haven Resort, where modern comfort meets tropical oasis</p>
           <div id="rooms">
            <div className="card">
-             <img src="https://unsplash.com/photos/cozy-bedroom-with-large-window-overlooking-lush-greenery-RAXD1BlJmSs" />
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMoAyyyXY_nTxHWgtOx7e047ikCMQI8yKNg&s" />
              <h1>hotel room name</h1>
              <p>brief descriptions</p>
              <div id="card-buttons">
