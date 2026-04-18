@@ -47,6 +47,7 @@
 #book-button
 {
   width: 50%;
+  background-color: black;
   border: 2px solid orange;
   border-radius: 20px;
 
