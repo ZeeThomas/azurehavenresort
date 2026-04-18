@@ -29,3 +29,7 @@
   font-size: 20px;
   text-align: left;
 }
+.card-buttons
+{
+  display: inline
+}
