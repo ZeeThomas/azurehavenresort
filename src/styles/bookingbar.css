@@ -10,3 +10,8 @@
   text-align: left;
   color: #606c38
 }
+.card
+{
+  width: 50px;
+  height: 100px;
+}
