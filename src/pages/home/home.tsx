@@ -10,6 +10,6 @@ export const Home = () =>
             <Navbar />
             <Heroimage />
             {/*<WeatherStrip /> */}
-        </div>
+            <Bookingbar>
     );
 }
