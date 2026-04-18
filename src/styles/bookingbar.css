@@ -31,5 +31,5 @@
 }
 .card-buttons
 {
-  display: inline;
+  display: inline-block;
 }
