@@ -29,7 +29,7 @@
   font-size: 20px;
   text-align: left;
 }
-.card-buttons
+#card-buttons
 {
   display: flex;
   flex-direction: row;
