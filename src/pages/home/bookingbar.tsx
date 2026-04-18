@@ -1,4 +1,4 @@
-import '../../styles/heroimage.css';
+import '../../styles/bookingbar.css';
 import React from "react";
 
 export const Bookingbar = () =>
