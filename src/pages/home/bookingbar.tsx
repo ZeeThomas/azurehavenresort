@@ -18,8 +18,12 @@ export const Bookingbar = () =>
              </div>
              
              <div id="card-buttons">
-               <p>See Detail</p>
-               <p>Book now</p>
+               <div id="detail-button">
+                 <p>See Detail</p>
+               </div>
+               <div id="book-button">
+                 <p>Book now</p>
+               </div>
              </div>
            </div>
           </div>
